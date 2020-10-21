@@ -6,7 +6,7 @@ namespace Paradigms4
         static void Main(string[] args)
         {
             int[] arr1 = new int[100];
-            int i, mx, mn, n;
+            int i, mx, mn, n; // comment
 
 
            
